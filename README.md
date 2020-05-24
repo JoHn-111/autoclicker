@@ -20,7 +20,7 @@
 <code>$ pip install keyboard</code></br>
 <code>$ pip install mouse</code></br>
 <h4>Clone repository</h4>
-<code>git clone https://github.com/JoHn-111/autoclicker</code></br>
+<code>$ git clone https://github.com/JoHn-111/autoclicker</code></br>
 <h4>Go to the program directiry:</h4>
 <code>$ cd autoclicker</code>
 <h4>And start</h4>

@@ -1,3 +1,8 @@
+<!DOCTYPE HTML>
+<head>
+  <meta charset="utf-8">
+</head>
+<body>
 <h1>Python click gen</h1></br>
 <p>Simple python click generator</p>
 <p>Requirements <a href="https://git-scm.com/">Git</a>, <a href="https://www.python.org/">Python</a> ver. 3.6 or later.</p>
@@ -20,7 +25,7 @@
 <code>$ cd autoclicker</code>
 <h4>And start</h4>
 <code>$ python autoclicker.py</code>
-<h3>Enjoy!</h3>
+<h4>Enjoy!</h4>
 <h2>Windows:</h2>
 <h4>Install the necessary additions</h4>
 <code>pip3 install keyboard</code></br>
@@ -31,4 +36,5 @@
 <code>cd autoclicker</code>
 <h4>And start</h4>
 <code>python autoclicker.py</code></br>
-<h3>Enjoy!</h3>
+<h4>Enjoy!</h4>
+</body>

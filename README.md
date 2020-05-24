@@ -2,7 +2,7 @@
 <h1>Мощный автокликер</h1></br>
 
 <p>
-<a href="https://pypi.python.org/pypi/pyTelegramBotAPI" rel="nofollow"><img src="https://camo.githubusercontent.com/741baa2386635a09d556a436c9caa693cedc6e9c/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f707954656c656772616d426f744150492e737667" alt="Supported Python versions" data-canonical-src="https://img.shields.io/pypi/pyversions/pyTelegramBotAPI.svg" style="max-width:100%;"></a>
+<a href="https://www.python.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/741baa2386635a09d556a436c9caa693cedc6e9c/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f707954656c656772616d426f744150492e737667" alt="Supported Python versions" data-canonical-src="https://img.shields.io/pypi/pyversions/pyTelegramBotAPI.svg" style="max-width:100%;"></a>
 
 
 <p>Вам потребуется <a href="https://git-scm.com/">Git</a> и <a href="https://www.python.org/">Python</a> версии 3.6 или выше.</p>

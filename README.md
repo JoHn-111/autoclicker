@@ -5,7 +5,7 @@
 <body>
 <h1>Python click gen</h1></br>
 <p>Simple python click generator</p>
-<p>Requirements <a href="https://git-scm.com/">Git</a>, <a href="https://www.python.org/">Python</a> ver. 3.6 or later.</p>
+<p>Requirements: <a href="https://git-scm.com/">Git</a>, <a href="https://www.python.org/">Python</a> ver. 3.6 or later.</p>
 <h2>Installation</h2>
 <ul>
   <li>

@@ -99,6 +99,9 @@ def lang():
     elif compatibility == "x":
         clear()
         mode_lang_ru()
+    if compatibility == "с":
+        clear()
+        mode_lang_en()
 
 lang()
 

@@ -26,7 +26,7 @@
 <h4>And start</h4>
 <code>$ python autoclicker.py</code>
 <h4>Enjoy!</h4>
-<h4>it may not work on Linux</h4>
+<h4>it may not work on Linux)</h4>
 <h2>Windows:</h2>
 <h4>Install the necessary additions</h4>
 <code>pip3 install keyboard</code></br>
